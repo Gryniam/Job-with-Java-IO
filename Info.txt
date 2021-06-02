@@ -1,0 +1,12 @@
+1. Write a Model class class that contains the person's id, age, height, name, and surname.
+Id - int, number in the range from 1 to 100000. Age - double, height - int in cm, name and surname
+- String.
+2. Create a collection of links to objects of the Model class, fill it in any way
+10 items.
+3. Sort the elements of the collection (see materials for laboratory work on arrays)
+behind the id field.
+4. Write the contents of the collection to a text file with the extension * .txt. 
+When viewing in an editor with a monospaced font, we get a table with
+columns with the same width (provide right-alignment when writing
+to the file).
+Write this file with UTF-8 encoding.
